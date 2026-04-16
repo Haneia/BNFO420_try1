@@ -1,5 +1,5 @@
 # RNAseq-DCM Gene Expression Analysis (Group 6)
-
+This project analyzes RNA-seq data (GSE141910) to investigate gene expression differences in dilated cardiomyopathy (DCM), with a focus on sex-specific effects.
 ## Quick links
 - https://haneia.github.io/dcm-gene-expression-analysis/
 
