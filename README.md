@@ -1,4 +1,4 @@
-# BNFO 420 Capstone Project (Group 6)
+# RNAseq-DCM Gene Expression Analysis (Group 6)
 
 ## Quick links
 - https://haneia.github.io/dcm-gene-expression-analysis/
