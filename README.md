@@ -1,7 +1,7 @@
 # BNFO 420 Capstone Project (Group 6)
 
 ## Quick links
-- **Live website (GitHub Pages):** (add link after Pages is enabled)
+- https://haneia.github.io/dcm-gene-expression-analysis/
 
 ## Repo structure
 - `index.qmd` = homepage
